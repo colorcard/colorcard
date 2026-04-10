@@ -4,15 +4,6 @@
 
 [![bilibili](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D239794887&query=data.follower&suffix=%20Fans&style=flat&logo=bilibili&logoColor=white&label=BiliBili&labelColor=%23F37697)](https://space.bilibili.com/239794887)
 
-
-<br>
-
-### **🌟 GitHub Statistics**
-
-[![ColorCard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=colorcard&count_private=true&show_icons=true&line_height=20)](https://github.com/ColorCard)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colorcard&layout=compact)](https://github.com/colorcard/github-readme-stats)
-
-
 ### **🔭 Current Focus**
  
  🎓 **Studying at Xiangtan University (XTU)**  
@@ -27,6 +18,4 @@ Open Source Contributions
 ### **📫 Contact Me**
 
 📧 **Email**: [liwq6688@icloud.com](mailto:liwq6688@icloud.com)  
-💬 **QQ**: [3533260786](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3533260786) *(For urgent inquiries only)*  
 
-📝 **Note**: *Please read this [article](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) before reaching out to ensure effective communication.*
